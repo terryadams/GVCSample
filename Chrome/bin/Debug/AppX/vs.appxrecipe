@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TADAM11</Machine>
+    <WindowsUser>TAdam</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1599fa60-dd48-4d1c-a5f5-b5668454621a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>54D313766AE704F7293D13461F9176BBE95610DCDC41AFF2BF242173A1804E25</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1599fa60-dd48-4d1c-a5f5-b5668454621a_1.0.0.0_neutral__9vbtbswjt42vp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1599fa60-dd48-4d1c-a5f5-b5668454621a_9vbtbswjt42vp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1599fa60-dd48-4d1c-a5f5-b5668454621a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=TAdam</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-19T22:03:07.332</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\bin\Debug\Chrome.exe">
+      <PackagePath>Chrome.exe</PackagePath>
+      <Modified>2013-12-19T22:25:39.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2013-12-17T21:05:19.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-12-19T22:03:06.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+      <Modified>2013-12-19T22:03:06.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+      <Modified>2013-12-19T22:03:06.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+      <Modified>2013-12-19T22:03:06.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tadam\documents\visual studio 2013\Projects\Chrome\Chrome\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-19T22:03:07.189</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
