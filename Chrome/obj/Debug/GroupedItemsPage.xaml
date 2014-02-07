@@ -49,8 +49,8 @@
                         SelectedBorderThickness="{ThemeResource GridViewItemCompactSelectedBorderThemeThickness}"
                         SelectedBackground="{ThemeResource ListViewItemSelectedBackgroundThemeBrush}"
                         SelectedForeground="{ThemeResource ListViewItemSelectedForegroundThemeBrush}"
-                        SelectedPointerOverBackground="Red"
-                        SelectedPointerOverBorderBrush="Yellow"
+                        SelectedPointerOverBackground="Green"
+                        SelectedPointerOverBorderBrush="Goldenrod"
                         DisabledOpacity="{ThemeResource ListViewItemDisabledThemeOpacity}"
                         DragOpacity="{ThemeResource ListViewItemDragThemeOpacity}"
                         ReorderHintOffset="{ThemeResource ListViewItemReorderHintThemeOffset}"
@@ -81,7 +81,7 @@
         </Grid.RowDefinitions>
 
         <!-- Horizontal scrolling grid -->
-        <GridView x:ConnectionId='1'
+        <GridView x:ConnectionId='0'
             x:Name="itemGridView"
             AutomationProperties.AutomationId="ItemGridView"
             AutomationProperties.Name="Grouped Items"
@@ -119,7 +119,7 @@
                     <GroupStyle.HeaderTemplate>
                         <DataTemplate>
                             <Grid Margin="0,0,0,2">
-                                <Button x:ConnectionId='2' Foreground="{ThemeResource ApplicationHeaderForegroundThemeBrush}"
+                                <Button x:ConnectionId='0' Foreground="{ThemeResource ApplicationHeaderForegroundThemeBrush}"
                                     AutomationProperties.Name="Group Title"
                                                         
                                     Style="{StaticResource TextBlockButtonStyle}" >

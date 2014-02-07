@@ -12,7 +12,7 @@
     mc:Ignorable="d">
 
     <Page.Resources>
-        <!-- Collection of items displayed by this page -->
+        <!-- Collection of items that are displayed by this page -->
         <CollectionViewSource
             x:Name="itemsViewSource"
             Source="{Binding Items}"
@@ -39,7 +39,7 @@
 
         <!-- Horizontal scrolling grid -->
 
-        <GridView x:ConnectionId='1'
+        <GridView x:ConnectionId='0'
             x:Name="itemGridView"
             AutomationProperties.AutomationId="ItemGridView"
             AutomationProperties.Name="Items In Group"

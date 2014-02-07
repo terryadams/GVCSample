@@ -12,7 +12,7 @@
     mc:Ignorable="d">
 
     <Page.Resources>
-        <!-- Collection of items displayed by this page -->
+        <!-- Collection of items that are displayed by this page -->
         <CollectionViewSource
             x:Name="itemsViewSource"
             Source="{Binding Items}"

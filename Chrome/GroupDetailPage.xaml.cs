@@ -97,12 +97,14 @@ namespace Chrome
 
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            navigationHelper.OnNavigatedTo(e);
+            var x = e;
+            navigationHelper.OnNavigatedTo(x);
         }
 
         protected override void OnNavigatedFrom(NavigationEventArgs e)
         {
-            navigationHelper.OnNavigatedFrom(e);
+            var x = e;
+            navigationHelper.OnNavigatedFrom(x);
         }
 
         #endregion
