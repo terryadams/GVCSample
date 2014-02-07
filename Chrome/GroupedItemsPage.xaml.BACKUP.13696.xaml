@@ -48,9 +48,15 @@
                         PointerOverBackground="Green"
                         SelectedBorderThickness="{ThemeResource GridViewItemCompactSelectedBorderThemeThickness}"
                         SelectedBackground="{ThemeResource ListViewItemSelectedBackgroundThemeBrush}"
-                        SelectedForeground="Purple"
+<<<<<<< HEAD
+                        SelectedForeground="{ThemeResource ListViewItemSelectedForegroundThemeBrush}"
                         SelectedPointerOverBackground="Green"
                         SelectedPointerOverBorderBrush="Goldenrod"
+=======
+                        SelectedForeground="Purple"
+                        SelectedPointerOverBackground="Red"
+                        SelectedPointerOverBorderBrush="Yellow"
+>>>>>>> GVCSample/Master
                         DisabledOpacity="{ThemeResource ListViewItemDisabledThemeOpacity}"
                         DragOpacity="{ThemeResource ListViewItemDragThemeOpacity}"
                         ReorderHintOffset="{ThemeResource ListViewItemReorderHintThemeOffset}"

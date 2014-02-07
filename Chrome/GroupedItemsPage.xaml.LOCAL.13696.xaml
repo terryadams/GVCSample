@@ -48,7 +48,7 @@
                         PointerOverBackground="Green"
                         SelectedBorderThickness="{ThemeResource GridViewItemCompactSelectedBorderThemeThickness}"
                         SelectedBackground="{ThemeResource ListViewItemSelectedBackgroundThemeBrush}"
-                        SelectedForeground="Purple"
+                        SelectedForeground="{ThemeResource ListViewItemSelectedForegroundThemeBrush}"
                         SelectedPointerOverBackground="Green"
                         SelectedPointerOverBorderBrush="Goldenrod"
                         DisabledOpacity="{ThemeResource ListViewItemDisabledThemeOpacity}"
